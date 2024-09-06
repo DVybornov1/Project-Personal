@@ -11,7 +11,7 @@ last_name: Vybornov
 
 # Status emoji
 status: 
-  icon: laptop
+  icon: laptop.jpeg
 
 # Is this the primary user of the site?
 superuser: true
