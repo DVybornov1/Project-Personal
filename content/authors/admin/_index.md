@@ -40,7 +40,7 @@ Interests:
 Education:
   - area: Bachelor's in Computor and Information Sciences
     institution: RUDN University
-    date_start: 2023-09-01
+    date_start: 1 of september 2023
     date_end: -
 # Technical Skills:
   items:
