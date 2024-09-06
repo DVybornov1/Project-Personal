@@ -44,21 +44,21 @@ education:
     date_end: -
 # Technical Skills:
 skills:
-  name: Technical Skills
-  items:
-    - name: Python
-      description: ''
-      percent: 75
-      icon: code-bracket
-    - name: C++
-      description: ''
-      percent: 65
-      icon: code-bracket
-    - name: SQL
-      description: ''
-      percent: 50
-      icon: circle-stack
-# Hobbies
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 75
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 65
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        percent: 50
+        icon: circle-stack
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -76,6 +76,7 @@ skills:
         icon: laptop
 
 # Languages:
+languages:
   - name: English
     percent: 90
   - name: Russian
