@@ -24,38 +24,40 @@ organizations:
     url: https://www.rudn.ru/
 
 # Social network links
-Profiles:
+profiles:
   - icon: at-symbol
     url: 'dvvybornov@gmail.com'
     label: My personal Email
   - icon: brands/github
     url: https://github.com/DVybornov1
 
-Interests:
+interests:
   - Coding
   - Artificial Intelligence
   - Astronomy
   - Videogames
 
-Education:
+education:
   - area: Bachelor's in Computor and Information Sciences
     institution: RUDN University
     date_start: 2023-09-01
     date_end: -
 # Technical Skills:
-  items:
-    - name: Python
-      description: ''
-      percent: 75
-      icon: code-bracket
-    - name: C++
-      description: ''
-      percent: 65
-      icon: code-bracket
-    - name: SQL
-      description: ''
-      percent: 50
-      icon: circle-stack
+  skills:
+    name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 75
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 65
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        percent: 50
+        icon: circle-stack
 # Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
