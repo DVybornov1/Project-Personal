@@ -9,62 +9,54 @@ name_pronunciation: Dmitry Vybornov
 first_name: Dmitry
 last_name: Vybornov
 
-# Status emoji
-status:
-  icon:
-
 # Is this the primary user of the site?
-superuser: true
+  - superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+  - highlight_name: true
 
 # Role/position/tagline
-role: Student
+  - role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: RUDN University
-    url: https://www.rudn.ru/
+  - url: https://www.rudn.ru/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+## Profiles:
   - icon: at-symbol
     url: 'dvvybornov@gmail.com'
     label: My personal Email
   - icon: brands/github
     url: https://github.com/DVybornov1
 
-interests:
+## Interests:
   - Coding
   - Artificial Intelligence
   - Astronomy
   - Videogames
 
-education:
+## Education:
   - area: Bachelor's in Computor and Information Sciences
     institution: RUDN University
     date_start: 2023-09-01
     date_end: 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 75
-        icon: code-bracket
-      - name: C++
-        description: ''
-        percent: 65
-        icon: code-bracket
-      - name: SQL
-        description: ''
-        percent: 50
-        icon: circle-stack
-  - name: Hobbies
+# Technical Skills:
+  items:
+    - name: Python
+      description: ''
+      percent: 75
+      icon: code-bracket
+    - name: C++
+      description: ''
+      percent: 65
+      icon: code-bracket
+    - name: SQL
+      description: ''
+      percent: 50
+      icon: circle-stack
+# Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -81,16 +73,11 @@ skills:
         percent: 80
         icon: laptop
 
-languages:
+# Languages:
   - name: English
     percent: 90
   - name: Russian
     percent: 95
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ## About Me
 
