@@ -9,6 +9,10 @@ name_pronunciation: Dmitry Vybornov
 first_name: Dmitry
 last_name: Vybornov
 
+# Status emoji
+status: 
+  icon: laptop
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -81,6 +85,10 @@ languages:
     percent: 90
   - name: Russian
     percent: 95
+awards:
+  - title: School Golden Medal
+    date: '2022-05-29'
+    awarder: School №1307 Administration
 
 ---
 
