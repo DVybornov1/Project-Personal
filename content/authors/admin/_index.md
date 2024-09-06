@@ -45,7 +45,7 @@ education:
   - area: Bachelor's in Computor and Information Sciences
     institution: RUDN University
     date_start: 2023-09-01
-    date_end: "-"
+    date_end: 2025-06-30
 # Technical Skills:
 skills:
   - name: Technical Skills
