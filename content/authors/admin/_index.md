@@ -10,34 +10,34 @@ first_name: Dmitry
 last_name: Vybornov
 
 # Is this the primary user of the site?
-  - superuser: true
+superuser: true
 
 # Highlight the author in author lists? (true/false)
-  - highlight_name: true
+highlight_name: true
 
 # Role/position/tagline
-  - role: Student
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: RUDN University
-  - url: https://www.rudn.ru/
+    url: https://www.rudn.ru/
 
 # Social network links
-## Profiles:
+Profiles:
   - icon: at-symbol
     url: 'dvvybornov@gmail.com'
     label: My personal Email
   - icon: brands/github
     url: https://github.com/DVybornov1
 
-## Interests:
+Interests:
   - Coding
   - Artificial Intelligence
   - Astronomy
   - Videogames
 
-## Education:
+Education:
   - area: Bachelor's in Computor and Information Sciences
     institution: RUDN University
     date_start: 2023-09-01
