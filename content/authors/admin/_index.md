@@ -79,6 +79,8 @@ organizations:
   - name: Russian
     percent: 95
 
+---
+
 ## About Me
 
 I am a student at RUDN University in Russia. I enjoy Traveling, writing code and playing videogames. In the future I hope to become a part of the Videogame Industry. I also have a cat!
