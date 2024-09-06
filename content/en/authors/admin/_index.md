@@ -30,7 +30,22 @@ profiles:
     label: My personal Email
   - icon: brands/github
     url: https://github.com/DVybornov1
-
+  - icon: brands/elibrary
+    url: https://www.elibrary.ru/author_info.asp?isold=1
+  - icon: at-symbol
+    url: https://scholar.google.com
+    label: My Google Scholar Account
+  - icon: brands/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0000-6508-1516
+  - icon: brands/Mendeley
+    url: https://www.mendeley.com/reference-manager/library/all-references
+  - icon: brands/Researchgate
+    url: https://www.researchgate.net/profile/Dmitry-Vybornov
+  - icon: at-symbol
+    url: https://independent.academia.edu/DmitryVybornov
+    label: My Academia Account
+  - icon: brands/arXiv
+    url: https://arxiv.org/user/
 interests:
   - Coding
   - Artificial Intelligence
