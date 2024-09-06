@@ -10,8 +10,8 @@ first_name: Dmitry
 last_name: Vybornov
 
 # Status emoji
-status: 
-  icon: laptop.png
+#status: 
+#  icon: laptop.png
 
 # Is this the primary user of the site?
 superuser: true
